@@ -1,9 +1,9 @@
 Dead simple heic to jpg conversion docker image.
 
 # How to use
-docker run -v <path to heic images>:/imgs btannous/heic2jpg
+`docker run -v <path to heic images>:/imgs btannous/heic2jpg`
 
-## Special thanks to
+## Special thanks for tifig
 Thank you to monostream for the awesome tool!
-Check it out here: [https://github.com/monostream/tifig](https://github.com/monostream/tifig)
 
+Check it out here: [https://github.com/monostream/tifig](https://github.com/monostream/tifig)
